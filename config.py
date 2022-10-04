@@ -1,0 +1,2 @@
+IGV_PERCENT = 18
+CURRENCY_SYMBOL = "$/. "
